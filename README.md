@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Metrics](https://metrics.lecoq.io/LVSMix?template=classic&topics=1&base.indepth=false&topics.mode=starred&topics.sort=stars&topics.limit=15&config.timezone=America%2FBuenos_Aires)
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
