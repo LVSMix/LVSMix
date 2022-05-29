@@ -10,11 +10,11 @@ Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
 </p>
+
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 
-
-
-**Languages and Tools:**  
+<br />
+## 🧰 Languages and Tools: 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/java.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/spring-icon.svg" width="30px" height="30px" hspace="5"/>
