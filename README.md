@@ -49,7 +49,6 @@ Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/kubernetes.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/aws.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/azure-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/google-cloud.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px" hspace="5" vspace="5"/>
