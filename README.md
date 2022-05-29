@@ -1,6 +1,18 @@
 ### Hi there 👋
 
+Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
+<p align="center">
+ <a href="https://www.linkedin.com/in/lventocilla/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
+ </a>
+
+ <a href="https://twitter.com/lvsmix" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
+ </a>
+</p>
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
+
+
 
 **Languages and Tools:**  
 <div style="display: flex; flex-direction: row; justify-content: center;">
