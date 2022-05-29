@@ -1,0 +1,13 @@
+name: Labels
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+jobs: 
+  github-labels:
+     uses: LVSMix/metrics@latest
+     with:
+      filename: metrics.plugin.topics.svg
+      token: NOT_NEEDED
+      base: ""
+      plugin_topics: yes
+      plugin_topics_limit: 12
