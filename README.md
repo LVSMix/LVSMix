@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
+Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales<br>
 <a href="https://www.instagram.com/lvsmix/">
   <img align="left" alt="LVSMix's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -13,6 +13,8 @@ Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
 <a href="https://www.linkedin.com/in/lventocilla/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=LVSMix)
 
 📈 my github stats 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LVSMix&show_icons=true&theme=gotham" alt="LVSMix" />
