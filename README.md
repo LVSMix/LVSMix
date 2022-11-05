@@ -1,15 +1,18 @@
 ### Hi there 👋
 
 Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
-<p align="left">
- <a href="https://www.linkedin.com/in/lventocilla/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
- </a>
-
- <a href="https://twitter.com/lvsmix" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jlferrete" height="24px" width="24px" />
- </a>
-</p>
+<a href="https://www.instagram.com/lvsmix/">
+  <img align="left" alt="LVSMix's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="LVSMix's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/lvsmix">
+  <img align="left" alt="lvsmix| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/lventocilla/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 📈 my github stats 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LVSMix&show_icons=true&theme=gotham" alt="LVSMix" />
