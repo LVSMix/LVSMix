@@ -11,8 +11,8 @@ Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
  </a>
 </p>
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
-
+📈 my github stats 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LVSMix&show_icons=true&theme=gotham" alt="LVSMix" />
 <h3>🧰 Languages and Tools:</h3> 
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
