@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
-<p align="center">
+<p align="left">
  <a href="https://www.linkedin.com/in/lventocilla/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jlferrete" height="24px" width="24px" />
  </a>
