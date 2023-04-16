@@ -20,7 +20,7 @@ Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LVSMix)
 
-📈 my github stats 
+📈 My Github Stats 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LVSMix&show_icons=true&theme=gotham" alt="LVSMix" />
   
 
