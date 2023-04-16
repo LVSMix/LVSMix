@@ -22,6 +22,8 @@ Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
 
 📈 my github stats 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=LVSMix&show_icons=true&theme=gotham" alt="LVSMix" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LVSMix-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
  
 <h3>🧰 Languages and Tools:</h3> 
 
