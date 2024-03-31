@@ -1,10 +1,7 @@
 ### Hi there 👋
 <br />
 
-Mi nombre es Luis Ventocilla y puedes encontrarme en mis redes sociales
-
-<br />
-
+Mi nombre es Luis Ventocilla 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LVSMix)
 
