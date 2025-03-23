@@ -1,18 +1,17 @@
 ### Hi there 👋
 <br />
-
 ### 👋 ¡Hola! Soy Luis Ventocilla
 
-Soy un **Desarrollador de Software** con experiencia en **.NET, C#, SQL Server y tecnologías Cloud** como Azure. Me especializo en construir soluciones empresariales robustas, con enfoque en la calidad del código, buenas prácticas y mejora continua.
+Soy un **Desarrollador de Software** con experiencia en **Java, Oracle, Nodejs y tecnologías Cloud** como Azure. Me especializo en construir soluciones empresariales robustas, con enfoque en la calidad del código, buenas prácticas y mejora continua.
 
 💻 Actualmente trabajo como **Desarrollador Backend**, creando APIs y aplicaciones escalables para clientes de alto nivel.
 
 🔧 **Tecnologías y herramientas favoritas:**
-- Lenguajes: C#, JavaScript, TypeScript
-- Frameworks: ASP.NET Core, Entity Framework, Angular
-- Bases de datos: SQL Server, PostgreSQL
+- Lenguajes: Java, JavaScript, TypeScript, Android, Kotlin, Nodejs, PHP Codeigniter
+- Frameworks: Angular, Vainilla JS
+- Bases de datos: SQL Server, PostgreSQL, Oracle, Postgres SQL
 - DevOps: Azure DevOps, GitHub Actions
-- Cloud: Microsoft Azure
+- Cloud: Microsoft Azure, AWS. GCP
 - Otros: Docker, Swagger, REST APIs
 
 📈 Siempre estoy aprendiendo y mejorando mis habilidades. Me interesa especialmente el **Clean Architecture**, **DDD**, **Microservicios** y el diseño de sistemas escalables.
