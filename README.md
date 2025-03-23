@@ -1,6 +1,9 @@
 ### Hi there 👋
 <br />
 
+![image](https://github.com/user-attachments/assets/9b2bd373-f68f-4080-8c96-b9c3f71a1951)
+
+
 ### 👋 ¡Hola! Soy Luis Ventocilla
 <br />
 Soy un **Desarrollador de Software** con experiencia en **Java, Oracle, Nodejs y tecnologías Cloud** como Azure. Me especializo en construir soluciones empresariales robustas, con enfoque en la calidad del código, buenas prácticas y mejora continua.
