@@ -1,7 +1,28 @@
 ### Hi there 👋
 <br />
 
-Mi nombre es Luis Ventocilla 
+### 👋 ¡Hola! Soy Luis Ventocilla
+
+Soy un **Desarrollador de Software** con experiencia en **.NET, C#, SQL Server y tecnologías Cloud** como Azure. Me especializo en construir soluciones empresariales robustas, con enfoque en la calidad del código, buenas prácticas y mejora continua.
+
+💻 Actualmente trabajo como **Desarrollador Backend**, creando APIs y aplicaciones escalables para clientes de alto nivel.
+
+🔧 **Tecnologías y herramientas favoritas:**
+- Lenguajes: C#, JavaScript, TypeScript
+- Frameworks: ASP.NET Core, Entity Framework, Angular
+- Bases de datos: SQL Server, PostgreSQL
+- DevOps: Azure DevOps, GitHub Actions
+- Cloud: Microsoft Azure
+- Otros: Docker, Swagger, REST APIs
+
+📈 Siempre estoy aprendiendo y mejorando mis habilidades. Me interesa especialmente el **Clean Architecture**, **DDD**, **Microservicios** y el diseño de sistemas escalables.
+
+📬 **¿Hablamos?**
+Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/lventocilla/) o ver algunos de mis proyectos aquí en GitHub. ¡Estoy abierto a colaboraciones, ideas y nuevas oportunidades!
+
+---
+
+⭐ ¡Gracias por visitar mi perfil!
 
 ![](https://visitor-badge.glitch.me/badge?page_id=LVSMix)
 
